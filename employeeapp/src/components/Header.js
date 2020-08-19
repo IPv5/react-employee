@@ -6,7 +6,7 @@ function Header() {
     return (
         <div classNmae="header">
             <h1>Employee Directory</h1>
-            <p>Click on carrots to filter by heading or use the search bar</p>
+            <p>Use the search box to narrow your results.</p>
         </div>
     )
 }
